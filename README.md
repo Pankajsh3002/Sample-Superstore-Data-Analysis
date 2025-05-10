@@ -36,10 +36,6 @@ Insights:
 
 --Lexmark 422 is the highest-selling product at $59K.
 
+--Corporate segment leads in sales at $410.84K, as shown in the funnel chart.
 
-
-Corporate segment leads in sales at $410.84K, as shown in the funnel chart.
-
-
-
-Technology likely drives the highest profit, as visualized in the profit funnel.
+--Technology likely drives the highest profit, as visualized in the profit funnel.
